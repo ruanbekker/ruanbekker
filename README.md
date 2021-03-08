@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 ### Hey everyone, I'm Ruan Bekker 👋
 
+<!--
 ![](https://avatars.githubusercontent.com/u/567298?s=400&u=b80d391d69fc7c5c8949632ecf56eaa0e99bdb01&v=4)
+-->
 
 I currently work as a DevOps Engineer for [Mama Money](https://mamamoney.co.za) and super passionate about making businesses succeed by building reliable, stable and scalable systems, and enabling development teams to move faster. 
 
