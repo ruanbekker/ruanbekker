@@ -26,6 +26,8 @@ I currently work as a DevOps Engineer for [Globee](https://globee.com/) and supe
 
 I specialize in AWS, Containers and Observability and very curious by heart. I have a strong passion for knowledge sharing and you will find me producing content on my blogs.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A6423ZIQ)
+
 ### Find me all around the web:
 
 - [Twitter](http://twitter.com/ruanbekker) :bird:
