@@ -28,6 +28,17 @@ I specialize in AWS, Containers and Observability and very curious by heart. I h
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A6423ZIQ)
 
+
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('ruanbekker', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.background-color': '#00b9fe',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
+
 ### Find me all around the web:
 
 - [Twitter](http://twitter.com/ruanbekker) :bird:
