@@ -46,6 +46,9 @@ I specialize in AWS, Containers and Observability and very curious by heart. I h
 - [Buy me a Coffee](https://https://www.buymeacoffee.com/ruanbekker) 🛒
 - [Buy even more merchandise](https://www.redbubble.com/shop/ap/72782447?asc=u) 🛍️
 
+### Need a Free Blog?
+- [Checkout Hashnode](https://hashnode.com/@ruanbekker/joinme)
+
 ### Some Fun Facts about me:
 
 :zap: I wanted to be a professional cricket player when I grew up, I still think about it every now and then, but I am so blessed for where I am today, and super passionate about what I do. I love tinkering with raspberry pi's, self-hosted setups, etc. I am also big into Call fo Duty Gaming.
