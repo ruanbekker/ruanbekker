@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 ![](https://avatars.githubusercontent.com/u/567298?s=400&u=b80d391d69fc7c5c8949632ecf56eaa0e99bdb01&v=4)
 -->
 
-I currently work as a DevOps Engineer for [Globee](https://globee.com/) and super passionate about making businesses succeed by building reliable, stable and scalable systems, and enabling development teams to move faster. 
+I currently work as a DevOps Engineer for [Techno Ponies](https://technoponies.com/) in the Platform Engineering space and super passionate about making businesses succeed by building reliable, stable and scalable systems, and enabling development teams to move faster. 
 
-I specialize in AWS, Containers and Observability and very curious by heart. I have a strong passion for knowledge sharing and you will find me producing content on my blogs.
+I specialize in AWS, Linux, Containers, Observability and very curious by heart. I have a strong passion for knowledge sharing and you will find me producing technical content on my blogs.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A6423ZIQ)
 
@@ -39,9 +39,10 @@ I specialize in AWS, Containers and Observability and very curious by heart. I h
 ### Watch, read, and catch up on content:
 - [My Tech Blog](https://blog.ruanbekker.com) 🌐
 - [Sysadmins Blog](https://sysadmins.co.za) 🌐
+- [Containers.fan Blog](https://containers.fan) 🌐
 - [Raspberry Pi Blog](https://blog.pistack.co.za) 🌐
-- [My Content on DevDojo Blog](https://devdojo.com/ruanbekker) 🌐
 - [My Content on Dev.to Blog](https://dev.to/ruanbekker) 🌐
+- [My Content on DevDojo Blog](https://devdojo.com/ruanbekker) 🌐
 - [Talks and Presentations](https://ruan.dev) :books:
 - [Buy me a Coffee](https://https://www.buymeacoffee.com/ruanbekker) 🛒
 - [Buy even more merchandise](https://www.redbubble.com/shop/ap/72782447?asc=u) 🛍️
