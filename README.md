@@ -46,6 +46,33 @@ I specialize in AWS, Containers and Observability and very curious by heart. I h
 - [Buy me a Coffee](https://https://www.buymeacoffee.com/ruanbekker) 🛒
 - [Buy even more merchandise](https://www.redbubble.com/shop/ap/72782447?asc=u) 🛍️
 
+### Language and Tools
+
+[<img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/ansible/ansible.png" />][webdevplaylist]
+[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" />][webdevplaylist]
+[<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" />][webdevplaylist]
+[<img align="left" alt="Concourse-CI" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/concourse-ci/concourse-ci.png" />][webdevplaylist]
+[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />][webdevplaylist]
+[<img align="left" alt="Elasticsearch" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/elasticsearch/elasticsearch.png" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />][webdevplaylist]
+[<img align="left" alt="Github Actions" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/actions/actions.png" />][webdevplaylist]
+[<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" />][webdevplaylist]
+[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" />][webdevplaylist]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" />][webdevplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />][webdevplaylist]
+[<img align="left" alt="NoSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nosql/nosql.png" />][webdevplaylist]
+[<img align="left" alt="Nginx" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nginx/nginx.png" />][webdevplaylist]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />][webdevplaylist]
+[<img align="left" alt="REST API" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/rest-api/rest-api.png" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />][webdevplaylist]
+[<img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png" />][webdevplaylist]
+[<img align="left" alt="VIM" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/vim/vim.png" />][webdevplaylist]
+[<img align="left" alt="YAML" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/yaml/yaml.png" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+
+<br />
+<br />
+
 ### Need a Free Blog?
 - [Checkout Hashnode](https://hashnode.com/@ruanbekker/joinme)
 
