@@ -53,4 +53,7 @@ I specialize in AWS, Containers and Observability and very curious by heart. I h
 
 :zap: I wanted to be a professional cricket player when I grew up, I still think about it every now and then, but I am so blessed for where I am today, and super passionate about what I do. I love tinkering with raspberry pi's, self-hosted setups, etc. I am also big into Call fo Duty Gaming.
 
+### Stats
+
+![Ruan's Github Stats](https://github-readme-stats.vercel.app/api?username=ruanbekker&show_icons=true&theme=vue-dark)
 
