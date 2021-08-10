@@ -49,6 +49,7 @@ I specialize in AWS, Containers and Observability and very curious by heart. I h
 ### Language and Tools
 
 [<img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/ansible/ansible.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" />][webdevplaylist]
 [<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" />][webdevplaylist]
 [<img align="left" alt="Concourse-CI" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/concourse-ci/concourse-ci.png" />][webdevplaylist]
