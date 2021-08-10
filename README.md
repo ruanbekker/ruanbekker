@@ -50,7 +50,7 @@ I specialize in AWS, Containers and Observability and very curious by heart. I h
 
 <img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/ansible/ansible.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" />
+[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" />](https://aws.amazon.com)
 <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" />
 <img align="left" alt="Concourse-CI" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/concourse-ci/concourse-ci.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />
@@ -61,10 +61,8 @@ I specialize in AWS, Containers and Observability and very curious by heart. I h
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />
-<img align="left" alt="NoSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nosql/nosql.png" />
 <img align="left" alt="Nginx" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nginx/nginx.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
-<img align="left" alt="REST API" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/rest-api/rest-api.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />
 <img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png" />
 <img align="left" alt="VIM" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/vim/vim.png" />
