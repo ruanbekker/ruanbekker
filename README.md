@@ -35,6 +35,7 @@ I specialize in AWS, Linux, Containers, Observability and very curious by heart.
 - [Twitch (Non-Tech)](http://twitch.tv/ruanbekker) 📺 
 - [LinkedIn](http://linkedin.com/in/ruanbekker) 👩‍💻
 - [My Website](https://ruan.dev) 🌐 
+- [Github Memory](https://githubmemory.com/@ruanbekker)
 
 ### Watch, read, and catch up on content:
 - [My Tech Blog](https://blog.ruanbekker.com) 🌐
