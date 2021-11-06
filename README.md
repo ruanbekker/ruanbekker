@@ -50,6 +50,11 @@ I specialize in AWS, Linux, Containers, Observability and very curious by heart.
 
 ### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Setup Traefik Version 2 on Docker](https://blog.ruanbekker.com/blog/2021/11/03/setup-traefik-version-2-on-docker/)
+- [Install Nodejs on Linux Using NVM](https://blog.ruanbekker.com/blog/2021/10/11/install-nodejs-on-linux-using-nvm/)
+- [Setup TLS and Basic Authentication on Node Exporter for Prometheus](https://blog.ruanbekker.com/blog/2021/10/10/setup-basic-authentication-on-node-exporter-and-prometheus/)
+- [Install Dogecoin Core on a Raspberry Pi](https://blog.pistack.co.za/install-dogecoin-core-on-a-raspberry-pi/)
+- [Install Concourse CI v7.4 on Ubuntu Linux](https://blog.ruanbekker.com/blog/2021/10/07/install-concourse-ci-v7-dot-4-on-ubuntu-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Language and Tools
