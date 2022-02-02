@@ -50,11 +50,11 @@ I specialize in AWS, Linux, Containers, Observability and very curious by heart.
 
 ### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Install Dogecoin Core on a Raspberry Pi](https://blog.pistack.co.za/install-dogecoin-core-on-a-raspberry-pi/)
-- [Monitor Temperature with the DHT22 Sensor on the Raspberry PI](https://blog.pistack.co.za/monitor-temperature-with-the-dht22-sensor-on-the-raspberry-pi/)
-- [CI Pipeline with Drone and Kubernetes Runner using Gitea](https://blog.pistack.co.za/ci-pipeline-with-drone-and-kubernetes-runner-using-gitea/)
-- [Kubernetes Drone Runner for Raspberry Pi](https://blog.pistack.co.za/kubernetes-drone-runner-for-raspberry-pi/)
-- [Using fluent-bit to log to Loki on Kubernetes](https://blog.pistack.co.za/using-fluent-bit-to-log-to-loki-on-kubernetes/)
+- [Blockchain Basics](https://blog.ruanbekker.com/blog/2021/12/05/blockchain-basics/)
+- [Run a GETH Ethereum Light Node](https://blog.ruanbekker.com/blog/2021/12/05/run-a-geth-ethereum-light-node/)
+- [Run Docker Containers With Terraform](https://blog.ruanbekker.com/blog/2021/11/23/run-docker-containers-with-terraform/)
+- [Setup Traefik Version 2 on Docker](https://blog.ruanbekker.com/blog/2021/11/03/setup-traefik-version-2-on-docker/)
+- [Install Nodejs on Linux Using NVM](https://blog.ruanbekker.com/blog/2021/10/11/install-nodejs-on-linux-using-nvm/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Language and Tools
