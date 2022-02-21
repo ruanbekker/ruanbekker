@@ -50,11 +50,11 @@ I specialize in AWS, Linux, Containers, Observability and very curious by heart.
 
 ### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Create DNS Records With Terraform on Cloudflare](https://blog.ruanbekker.com/blog/2022/02/20/create-dns-records-with-terraform-on-cloudflare/)
 - [Blockchain Basics](https://blog.ruanbekker.com/blog/2021/12/05/blockchain-basics/)
 - [Run a GETH Ethereum Light Node](https://blog.ruanbekker.com/blog/2021/12/05/run-a-geth-ethereum-light-node/)
 - [Run Docker Containers With Terraform](https://blog.ruanbekker.com/blog/2021/11/23/run-docker-containers-with-terraform/)
 - [Setup Traefik Version 2 on Docker](https://blog.ruanbekker.com/blog/2021/11/03/setup-traefik-version-2-on-docker/)
-- [Install Nodejs on Linux Using NVM](https://blog.ruanbekker.com/blog/2021/10/11/install-nodejs-on-linux-using-nvm/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Language and Tools
