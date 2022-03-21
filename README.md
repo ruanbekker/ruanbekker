@@ -50,11 +50,11 @@ I specialize in AWS, Linux, Containers, Observability and very curious by heart.
 
 ### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Run a Basic Python Flask Restful API](https://blog.ruanbekker.com/blog/2022/03/20/run-a-basic-python-flask-restful-api/)
+- [Run OpenLDAP With a UI on Docker](https://blog.ruanbekker.com/blog/2022/03/20/run-openldap-with-a-ui-on-docker/)
 - [Create DNS Records With Terraform on Cloudflare](https://blog.ruanbekker.com/blog/2022/02/20/create-dns-records-with-terraform-on-cloudflare/)
 - [Blockchain Basics](https://blog.ruanbekker.com/blog/2021/12/05/blockchain-basics/)
 - [Run a GETH Ethereum Light Node](https://blog.ruanbekker.com/blog/2021/12/05/run-a-geth-ethereum-light-node/)
-- [Run Docker Containers With Terraform](https://blog.ruanbekker.com/blog/2021/11/23/run-docker-containers-with-terraform/)
-- [Setup Traefik Version 2 on Docker](https://blog.ruanbekker.com/blog/2021/11/03/setup-traefik-version-2-on-docker/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Language and Tools
