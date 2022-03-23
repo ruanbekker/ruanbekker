@@ -50,11 +50,11 @@ I specialize in AWS, Linux, Containers, Observability and very curious by heart.
 
 ### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Load Environment Variables From File in Python](https://blog.ruanbekker.com/blog/2022/03/22/load-environment-variables-from-file-in-python/)
 - [Run a Basic Python Flask Restful API](https://blog.ruanbekker.com/blog/2022/03/20/run-a-basic-python-flask-restful-api/)
 - [Run OpenLDAP With a UI on Docker](https://blog.ruanbekker.com/blog/2022/03/20/run-openldap-with-a-ui-on-docker/)
 - [Create DNS Records With Terraform on Cloudflare](https://blog.ruanbekker.com/blog/2022/02/20/create-dns-records-with-terraform-on-cloudflare/)
 - [Blockchain Basics](https://blog.ruanbekker.com/blog/2021/12/05/blockchain-basics/)
-- [Run a GETH Ethereum Light Node](https://blog.ruanbekker.com/blog/2021/12/05/run-a-geth-ethereum-light-node/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Language and Tools
