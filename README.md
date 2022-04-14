@@ -30,6 +30,11 @@ I specialize in AWS, Linux, Containers, Observability and very curious by heart.
 
 ### Find me all around the web:
 
+<div>  	
+  <a href="https://www.linkedin.com/in/ruanbekker/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://twitter.com/ruanbekker/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+</div>
+
 - [Twitter](http://twitter.com/ruanbekker) :bird:
 - [Instagram](http://instagram.com/ruanbekker) 📸
 - [Twitch (Non-Tech)](http://twitch.tv/ruanbekker) 📺 
