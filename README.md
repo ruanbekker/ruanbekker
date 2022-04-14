@@ -84,9 +84,7 @@ I specialize in AWS, Linux, Containers, Observability and very curious by heart.
 
 ### Reading Curiosity
 
-<div>
-  <a href="https://app.daily.dev/ruanbekker"><img src="https://github.com/ruanbekker/ruanbekker/blob/master/devcard.svg" width="400" alt="Ruan Bekker's Dev Card"/></a>
-</div>
+<a href="https://app.daily.dev/ruanbekker"><img src="https://api.daily.dev/devcards/3897cece9897436e8230fefb521a720e.png?r=ro7" width="400" alt="Ruan Bekker's Dev Card"/></a>
 
 ### Need a Free Blog?
 - [Checkout Hashnode](https://hashnode.com/@ruanbekker/joinme)
