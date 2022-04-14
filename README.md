@@ -33,14 +33,9 @@ I specialize in AWS, Linux, Containers, Observability and very curious by heart.
 <div>  	
   <a href="https://www.linkedin.com/in/ruanbekker/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/ruanbekker/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+  <a href="https://ruan.dev" target="_blank"><img src="https://img.shields.io/badge/-Website-%230077B5?style=for-the-badge&logo=website&logoColor=white" target="_blank"></a> 
+  <a href="https://githubmemory.com/@ruanbekker" target="_blank"><img src="https://img.shields.io/badge/-GHMemory-%230077B5?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 </div>
-
-- [Twitter](http://twitter.com/ruanbekker) :bird:
-- [Instagram](http://instagram.com/ruanbekker) 📸
-- [Twitch (Non-Tech)](http://twitch.tv/ruanbekker) 📺 
-- [LinkedIn](http://linkedin.com/in/ruanbekker) 👩‍💻
-- [My Website](https://ruan.dev) 🌐 
-- [Github Memory](https://githubmemory.com/@ruanbekker)
 
 ### Watch, read, and catch up on content:
 - [My Tech Blog](https://blog.ruanbekker.com) 🌐
