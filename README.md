@@ -51,11 +51,11 @@ I specialize in AWS, Linux, Containers, Observability and very curious by heart.
 
 ### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Provision a AWS EC2 Instance With Terraform](https://blog.ruanbekker.com/blog/2022/04/16/provision-a-aws-ec2-instance-with-terraform/)
 - [Matrix Bot Using SimpleMatrixBotlib in Python](https://blog.ruanbekker.com/blog/2022/03/29/matrix-bot-using-simplematrixbotlib-in-python/)
 - [Setup Matrix and Element Chat Server](https://blog.ruanbekker.com/blog/2022/03/29/setup-matrix-and-element-chat-server/)
 - [Load Environment Variables From File in Python](https://blog.ruanbekker.com/blog/2022/03/22/load-environment-variables-from-file-in-python/)
 - [Run a Basic Python Flask Restful API](https://blog.ruanbekker.com/blog/2022/03/20/run-a-basic-python-flask-restful-api/)
-- [Run OpenLDAP With a UI on Docker](https://blog.ruanbekker.com/blog/2022/03/20/run-openldap-with-a-ui-on-docker/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Language and Tools
