@@ -51,11 +51,11 @@ I specialize in AWS, Linux, Containers, Observability and very curious by heart.
 
 ### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Run Ethereum Ropsten Testnet on a RaspberryPi](https://blog.pistack.co.za/run-ethereum-ropsten-testnet-on-a-raspberrypi/)
+- [Customize VIM Editor With a Brand New Look](https://blog.ruanbekker.com/blog/2022/05/11/customize-vim-editor-with-a-brand-new-look/)
 - [Create a Discord Bot in Python](https://blog.ruanbekker.com/blog/2022/05/05/create-a-discord-bot-in-python/)
 - [Publish and Use Your Ansible Role From Git](https://blog.ruanbekker.com/blog/2022/04/19/publish-and-use-your-ansible-role-from-git/)
 - [Provision a AWS EC2 Instance With Terraform](https://blog.ruanbekker.com/blog/2022/04/16/provision-a-aws-ec2-instance-with-terraform/)
-- [Matrix Bot Using SimpleMatrixBotlib in Python](https://blog.ruanbekker.com/blog/2022/03/29/matrix-bot-using-simplematrixbotlib-in-python/)
-- [Setup Matrix and Element Chat Server](https://blog.ruanbekker.com/blog/2022/03/29/setup-matrix-and-element-chat-server/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Language and Tools
