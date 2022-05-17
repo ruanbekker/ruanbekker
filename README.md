@@ -98,3 +98,4 @@ I specialize in AWS, Linux, Containers, Observability and very curious by heart.
 
 ![Ruan's Github Stats](https://github-readme-stats.vercel.app/api?username=ruanbekker&show_icons=true&theme=vue-dark)
 
+![](https://komarev.com/ghpvc/?username=ruanbekker&style=flat-square)
