@@ -38,6 +38,15 @@ I specialize in AWS, Linux, Containers, Observability and very curious by heart.
   <a href="https://ko-fi.com/A6423ZIQ" target="_blank"><img src="https://img.shields.io/badge/-Support%20Me-%230077B5?style=for-the-badge&logo=kofi&logoColor=white" target="_blank"></a> 
 </div>
 
+### Latest Blog Posts:
+<!-- BLOG-POST-LIST:START -->
+- [Setup Linkding Bookmarks Manager on Docker](https://blog.ruanbekker.com/blog/2022/05/31/setup-linkding-bookmarks-manager-on-docker/)
+- [Python Flask Forms With Jinja Templating](https://blog.ruanbekker.com/blog/2022/05/31/python-flask-forms-with-jinja-templating/)
+- [Prometheus Relabel Config Examples](https://blog.ruanbekker.com/blog/2022/05/30/prometheus-relabel-config-examples/)
+- [Create a AWS Lambda Layer With Docker](https://blog.ruanbekker.com/blog/2022/05/27/create-a-aws-lambda-layer-with-docker/)
+- [Run Ethereum Ropsten Testnet on a RaspberryPi](https://blog.pistack.co.za/run-ethereum-ropsten-testnet-on-a-raspberrypi/)
+<!-- BLOG-POST-LIST:END -->
+
 ### Watch, read, and catch up on content:
 - [My Tech Blog](https://blog.ruanbekker.com) 🌐
 - [Sysadmins Blog](https://sysadmins.co.za) 🌐
@@ -48,15 +57,6 @@ I specialize in AWS, Linux, Containers, Observability and very curious by heart.
 - [Talks and Presentations](https://ruan.dev) :books:
 - [Buy me a Coffee](https://https://www.buymeacoffee.com/ruanbekker) 🛒
 - [Buy even more merchandise](https://www.redbubble.com/shop/ap/72782447?asc=u) 🛍️
-
-### Latest Blog Posts:
-<!-- BLOG-POST-LIST:START -->
-- [Setup Linkding Bookmarks Manager on Docker](https://blog.ruanbekker.com/blog/2022/05/31/setup-linkding-bookmarks-manager-on-docker/)
-- [Python Flask Forms With Jinja Templating](https://blog.ruanbekker.com/blog/2022/05/31/python-flask-forms-with-jinja-templating/)
-- [Prometheus Relabel Config Examples](https://blog.ruanbekker.com/blog/2022/05/30/prometheus-relabel-config-examples/)
-- [Create a AWS Lambda Layer With Docker](https://blog.ruanbekker.com/blog/2022/05/27/create-a-aws-lambda-layer-with-docker/)
-- [Run Ethereum Ropsten Testnet on a RaspberryPi](https://blog.pistack.co.za/run-ethereum-ropsten-testnet-on-a-raspberrypi/)
-<!-- BLOG-POST-LIST:END -->
 
 ### Language and Tools
 
