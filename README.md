@@ -40,11 +40,11 @@ I specialize in AWS, Linux, Containers, Observability and very curious by heart.
 
 ### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Install a Specific Python Version on Ubuntu](https://blog.ruanbekker.com/blog/2022/06/23/install-a-specific-python-version-on-ubuntu/)
 - [How to Persist Iptables Rules After Reboots](https://blog.ruanbekker.com/blog/2022/06/15/how-to-persist-iptables-rules-after-reboots/)
 - [How to Read and Write Json Data With Python](https://blog.ruanbekker.com/blog/2022/06/14/how-to-read-and-write-json-data-with-python/)
 - [Setup Linkding Bookmarks Manager on Docker](https://blog.ruanbekker.com/blog/2022/05/31/setup-linkding-bookmarks-manager-on-docker/)
 - [Python Flask Forms With Jinja Templating](https://blog.ruanbekker.com/blog/2022/05/31/python-flask-forms-with-jinja-templating/)
-- [Prometheus Relabel Config Examples](https://blog.ruanbekker.com/blog/2022/05/30/prometheus-relabel-config-examples/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Watch, read, and catch up on content:
