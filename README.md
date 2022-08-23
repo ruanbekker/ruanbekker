@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![](https://avatars.githubusercontent.com/u/567298?s=400&u=b80d391d69fc7c5c8949632ecf56eaa0e99bdb01&v=4)
 -->
 
-I currently work as a DevOps Engineer for a Blockchain Startup in the Platform Engineering space and super passionate about making businesses succeed by building reliable, stable and scalable systems, and enabling development teams to move faster. 
+I currently work as a Senior DevOps Engineer in the Blockchain and Fintech space and super passionate about making businesses succeed by building reliable, stable and scalable systems, and enabling development teams to move faster. 
 
 I specialize in AWS, Linux, Containers, Observability and very curious by heart. I have a strong passion for knowledge sharing and you will find me producing technical content on my blogs.
 
