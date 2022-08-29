@@ -40,11 +40,11 @@ I specialize in AWS, Linux, Containers, Observability and very curious by heart.
 
 ### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Ansible Playbook for Your Macbook Homebrew Packages](https://blog.ruanbekker.com/blog/2022/08/28/ansible-playbook-for-your-macbook-homebrew-packages/)
 - [Docker Multistage Builds for Hugo](https://blog.ruanbekker.com/blog/2022/07/31/docker-multistage-builds-for-hugo/)
 - [Remote Builds With Docker Contexts](https://blog.ruanbekker.com/blog/2022/07/14/remote-builds-with-docker-contexts/)
 - [Create a RAID5 Array With Mdadm on Linux](https://blog.ruanbekker.com/blog/2022/06/29/create-a-raid5-array-with-mdadm-on-linux/)
 - [Install a Specific Python Version on Ubuntu](https://blog.ruanbekker.com/blog/2022/06/23/install-a-specific-python-version-on-ubuntu/)
-- [How to Persist Iptables Rules After Reboots](https://blog.ruanbekker.com/blog/2022/06/15/how-to-persist-iptables-rules-after-reboots/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Watch, read, and catch up on content:
