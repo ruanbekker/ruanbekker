@@ -40,11 +40,11 @@ I specialize in AWS, Linux, Containers, Observability and very curious by heart.
 
 ### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Logging With Docker Promtail and Grafana Loki](https://blog.ruanbekker.com/blog/2022/11/18/logging-with-docker-promtail-and-grafana-loki/)
 - [KinD for Local Kubernetes Clusters](https://blog.ruanbekker.com/blog/2022/09/20/kind-for-local-kubernetes-clusters/)
 - [Ansible Playbook for Your Macbook Homebrew Packages](https://blog.ruanbekker.com/blog/2022/08/28/ansible-playbook-for-your-macbook-homebrew-packages/)
 - [Docker Multistage Builds for Hugo](https://blog.ruanbekker.com/blog/2022/07/31/docker-multistage-builds-for-hugo/)
 - [Remote Builds With Docker Contexts](https://blog.ruanbekker.com/blog/2022/07/14/remote-builds-with-docker-contexts/)
-- [Create a RAID5 Array With Mdadm on Linux](https://blog.ruanbekker.com/blog/2022/06/29/create-a-raid5-array-with-mdadm-on-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Watch, read, and catch up on content:
