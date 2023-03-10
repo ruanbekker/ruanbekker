@@ -40,11 +40,11 @@ I specialize in AWS, Linux, Containers, Observability and very curious by heart.
 
 ### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Manage Helm Releases With Terraform](https://blog.ruanbekker.com/blog/2023/03/09/manage-helm-releases-with-terraform/)
 - [Persisting Terraform Remote State in Gitlab](https://blog.ruanbekker.com/blog/2023/03/05/persisting-terraform-remote-state-in-gitlab/)
 - [Everything You Need to Know About Helm](https://blog.ruanbekker.com/blog/2023/01/24/everything-you-need-to-know-about-helm/)
 - [Getting Started With Wiremock](https://blog.ruanbekker.com/blog/2023/01/14/getting-started-with-wiremock/)
 - [Logging With Docker Promtail and Grafana Loki](https://blog.ruanbekker.com/blog/2022/11/18/logging-with-docker-promtail-and-grafana-loki/)
-- [KinD for Local Kubernetes Clusters](https://blog.ruanbekker.com/blog/2022/09/20/kind-for-local-kubernetes-clusters/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Watch, read, and catch up on content:
