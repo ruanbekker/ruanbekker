@@ -40,11 +40,11 @@ I specialize in AWS, Linux, Containers, Observability and very curious by heart.
 
 ### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [How to Run a AMD64 Bit Linux VM on a Mac M1](https://blog.ruanbekker.com/blog/2023/05/26/how-to-run-a-amd64-bit-linux-vm-on-a-mac-m1/)
 - [Running a Multi-Broker Kafka Cluster on Docker](https://blog.ruanbekker.com/blog/2023/05/17/running-a-multi-broker-kafka-cluster-on-docker/)
 - [Manage Helm Releases With Terraform](https://blog.ruanbekker.com/blog/2023/03/09/manage-helm-releases-with-terraform/)
 - [Persisting Terraform Remote State in Gitlab](https://blog.ruanbekker.com/blog/2023/03/05/persisting-terraform-remote-state-in-gitlab/)
 - [Everything You Need to Know About Helm](https://blog.ruanbekker.com/blog/2023/01/24/everything-you-need-to-know-about-helm/)
-- [Getting Started With Wiremock](https://blog.ruanbekker.com/blog/2023/01/14/getting-started-with-wiremock/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Watch, read, and catch up on content:
