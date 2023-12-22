@@ -40,11 +40,11 @@ I specialize in AWS, Linux, Containers, Observability and very curious by heart.
 
 ### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Python Lambda Function With Terraform on AWS](https://blog.ruanbekker.com/blog/2023/08/03/creating-a-python-lambda-function-with-terraform-on-aws/)
 - [How to Use the MySQL Terraform Provider](https://blog.ruanbekker.com/blog/2023/07/15/how-to-use-the-mysql-terraform-provider/)
 - [How to Use the AWS Terraform Provider](https://blog.ruanbekker.com/blog/2023/07/15/how-to-use-the-aws-terraform-provider/)
 - [Getting Started With FerretDB on Docker](https://blog.ruanbekker.com/blog/2023/06/14/getting-started-with-ferretdb-on-docker/)
 - [How to Run a AMD64 Bit Linux VM on a Mac M1](https://blog.ruanbekker.com/blog/2023/05/26/how-to-run-a-amd64-bit-linux-vm-on-a-mac-m1/)
-- [Running a Multi-Broker Kafka Cluster on Docker](https://blog.ruanbekker.com/blog/2023/05/17/running-a-multi-broker-kafka-cluster-on-docker/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Watch, read, and catch up on content:
