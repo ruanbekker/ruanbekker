@@ -40,11 +40,11 @@ I specialize in AWS, Linux, Containers, Observability and very curious by heart.
 
 ### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Cert-Manager DNS Challenge With Cloudflare on Kubernetes With Helm](https://blog.ruanbekker.com/blog/2023/12/22/how-to-use-cert-manager-dns-challenge-with-cloudflare-on-kubernetes-with-helm/)
+- [How to Deploy Ingress-Nginx Controller on Kubernetes With Helm](https://blog.ruanbekker.com/blog/2023/12/22/how-to-deploy-ingress-nginx-controller-on-kubernetes-with-helm/)
 - [Creating a Python Lambda Function With Terraform on AWS](https://blog.ruanbekker.com/blog/2023/08/03/creating-a-python-lambda-function-with-terraform-on-aws/)
 - [How to Use the MySQL Terraform Provider](https://blog.ruanbekker.com/blog/2023/07/15/how-to-use-the-mysql-terraform-provider/)
 - [How to Use the AWS Terraform Provider](https://blog.ruanbekker.com/blog/2023/07/15/how-to-use-the-aws-terraform-provider/)
-- [Getting Started With FerretDB on Docker](https://blog.ruanbekker.com/blog/2023/06/14/getting-started-with-ferretdb-on-docker/)
-- [How to Run a AMD64 Bit Linux VM on a Mac M1](https://blog.ruanbekker.com/blog/2023/05/26/how-to-run-a-amd64-bit-linux-vm-on-a-mac-m1/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Watch, read, and catch up on content:
