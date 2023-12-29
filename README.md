@@ -58,6 +58,10 @@ I specialize in AWS, Linux, Containers, Observability and very curious by heart.
 - [Buy me a Coffee](https://https://www.buymeacoffee.com/ruanbekker) 🛒
 - [Buy even more merchandise](https://www.redbubble.com/shop/ap/72782447?asc=u) 🛍️
 
+### Activity on Github
+
+[![committers.top badge](https://user-badge.committers.top/south_africa/ruanbekker.svg)](https://user-badge.committers.top/south_africa/ruanbekker)
+
 ### Language and Tools
 
 <img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/ansible/ansible.png" />
