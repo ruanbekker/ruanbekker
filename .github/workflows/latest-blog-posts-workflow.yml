@@ -14,4 +14,4 @@ jobs:
       - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://blog.ruanbekker.com/atom.xml,https://blog.pistack.co.za/rss/"
+          feed_list: "https://ruan.dev/feed.xml,https://blog.pistack.co.za/rss/"
