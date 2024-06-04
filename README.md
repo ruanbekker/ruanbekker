@@ -40,11 +40,11 @@ I specialize in AWS, Linux, Containers, Observability and very curious by heart.
 
 ### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Cert-Manager DNS Challenge With Cloudflare on Kubernetes With Helm](https://blog.ruanbekker.com/blog/2023/12/22/how-to-use-cert-manager-dns-challenge-with-cloudflare-on-kubernetes-with-helm/)
-- [How to Deploy Ingress-Nginx Controller on Kubernetes With Helm](https://blog.ruanbekker.com/blog/2023/12/22/how-to-deploy-ingress-nginx-controller-on-kubernetes-with-helm/)
-- [Creating a Python Lambda Function With Terraform on AWS](https://blog.ruanbekker.com/blog/2023/08/03/creating-a-python-lambda-function-with-terraform-on-aws/)
-- [How to Use the MySQL Terraform Provider](https://blog.ruanbekker.com/blog/2023/07/15/how-to-use-the-mysql-terraform-provider/)
-- [How to Use the AWS Terraform Provider](https://blog.ruanbekker.com/blog/2023/07/15/how-to-use-the-aws-terraform-provider/)
+- [Automate Grafana Dashboards with Terraform and Helm](https://ruan.dev/blog/2024/05/01/automate-grafana-dashboards-with-terraform-and-helm)
+- [Grafana CloudWatch Datasource IRSA for Kubernetes using Terraform](https://ruan.dev/blog/2024/04/23/grafana-cloudwatch-datasource-iam-role-service-account-for-kubernetes-using-terraform)
+- [Multi-Arch Docker Builds with Github Actions](https://ruan.dev/blog/2024/04/21/multi-architecture-docker-builds-with-github-actions)
+- [Using Terraform to Deploy KinD Kubernetes Clusters](https://ruan.dev/blog/2024/04/07/using-terraform-to-deploy-kind-kubernetes-clusters)
+- [Getting Started with Argo CD on Kubernetes - The Ultimate Guide](https://ruan.dev/blog/2024/26/03/getting-started-with-argo-cd-on-kubernetes---the-ultimate-guide)
 <!-- BLOG-POST-LIST:END -->
 
 ### Watch, read, and catch up on content:
