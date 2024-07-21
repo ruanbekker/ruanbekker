@@ -48,7 +48,7 @@ I specialize in AWS, Linux, Containers, Observability and very curious by heart.
 <!-- BLOG-POST-LIST:END -->
 
 ### Watch, read, and catch up on content:
-- [My Tech Blog](https://blog.ruanbekker.com) 🌐
+- [My Tech Blog](https://ruan.dev/blog) 🌐
 - [Sysadmins Blog](https://sysadmins.co.za) 🌐
 - [Containers.fan Blog](https://containers.fan) 🌐
 - [Raspberry Pi Blog](https://blog.pistack.co.za) 🌐
