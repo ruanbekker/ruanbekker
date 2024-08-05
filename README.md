@@ -40,11 +40,11 @@ I specialize in AWS, Linux, Containers, Observability and very curious by heart.
 
 ### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Step-by-step Guide to Setting up Atlantis with Gitlab](https://ruan.dev/blog/2024/08/04/step-by-step-guide-to-setting-up-atlantis-with-gitlab)
 - [Unleashing Terraform Automation with Atlantis: An Overview](https://ruan.dev/blog/2024/07/31/unleashing-terraform-automation-with-atlantis-an-overview)
 - [How to Create a KinD Kubernetes Terraform Module](https://ruan.dev/blog/2024/07/28/how-to-create-a-kind-kubernetes-terraform-module)
 - [Deploy a Golang App to Interact with the Kubernetes API](https://ruan.dev/blog/2024/07/21/deploy-a-golang-app-to-interact-with-the-kubernetes-api)
 - [Automate Grafana Dashboards with Terraform and Helm](https://ruan.dev/blog/2024/05/01/automate-grafana-dashboards-with-terraform-and-helm)
-- [Grafana CloudWatch Datasource IRSA for Kubernetes using Terraform](https://ruan.dev/blog/2024/04/23/grafana-cloudwatch-datasource-iam-role-service-account-for-kubernetes-using-terraform)
 <!-- BLOG-POST-LIST:END -->
 
 ### Watch, read, and catch up on content:
