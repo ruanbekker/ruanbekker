@@ -40,11 +40,11 @@ I specialize in AWS, Linux, Containers, Observability and very curious by heart.
 
 ### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [High-Availability Options for your Deployments on Kubernetes](https://ruan.dev/blog/2024/08/22/high-availability-options-for-your-deployments-on-kubernetes)
+- [Scaling Applications in Kubernetes with Horizontal Pod Autoscaler](https://ruan.dev/blog/2024/08/14/scaling-applications-in-kubernetes-with-horizontal-pod-autoscaler)
 - [Getting Started with Localstack:  Overview, Setup, and Practical Usage Guide](https://ruan.dev/blog/2024/08/06/getting-started-with-localstack-overview-setup-and-practical-usage-guide)
 - [Step-by-step Guide to Setting up Atlantis with Gitlab](https://ruan.dev/blog/2024/08/04/step-by-step-guide-to-setting-up-atlantis-with-gitlab)
 - [Unleashing Terraform Automation with Atlantis: An Overview](https://ruan.dev/blog/2024/07/31/unleashing-terraform-automation-with-atlantis-an-overview)
-- [How to Create a KinD Kubernetes Terraform Module](https://ruan.dev/blog/2024/07/28/how-to-create-a-kind-kubernetes-terraform-module)
-- [Deploy a Golang App to Interact with the Kubernetes API](https://ruan.dev/blog/2024/07/21/deploy-a-golang-app-to-interact-with-the-kubernetes-api)
 <!-- BLOG-POST-LIST:END -->
 
 ### Watch, read, and catch up on content:
