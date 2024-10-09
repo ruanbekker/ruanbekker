@@ -40,11 +40,11 @@ I specialize in AWS, Linux, Containers, Observability and very curious by heart.
 
 ### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Using KEDA for Autoscaling Pods using Prometheus Metrics](https://ruan.dev/blog/2024/10/07/how-to-use-keda-to-scale-pods-using-prometheus)
 - [Cross Account Terraform Assume Roles in AWS](https://ruan.dev/blog/2024/09/15/cross-account-terraform-assume-roles-in-aws)
 - [Scaling with Kubernetes: An Introduction to KEDA](https://ruan.dev/blog/2024/08/29/scaling-with-kubernetes-an-introduction-to-keda)
 - [Enhancing High Availability in Kubernetes: Strategies for Robust Application Deployment](https://ruan.dev/blog/2024/08/22/high-availability-options-for-your-deployments-on-kubernetes)
 - [Scaling Applications in Kubernetes with Horizontal Pod Autoscaler](https://ruan.dev/blog/2024/08/14/scaling-applications-in-kubernetes-with-horizontal-pod-autoscaler)
-- [Getting Started with Localstack:  Overview, Setup, and Practical Usage Guide](https://ruan.dev/blog/2024/08/06/getting-started-with-localstack-overview-setup-and-practical-usage-guide)
 <!-- BLOG-POST-LIST:END -->
 
 ### Watch, read, and catch up on content:
