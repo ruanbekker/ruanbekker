@@ -40,11 +40,11 @@ I specialize in AWS, Linux, Containers, Observability and very curious by heart.
 
 ### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [GitOps: ArgoCD Basics](https://ruan.dev/blog/2025/01/30/gitops-argocd-basics)
 - [GitOps Fundamentals: a Better Way to Deliver Software](https://ruan.dev/blog/2025/01/28/gitops-fundamentals-a-better-way-to-deliver-software)
 - [How to Prevent SSH Brute Force Attacks with Fail2ban](https://ruan.dev/blog/2025/01/24/how-to-prevent-ssh-brute-force-attacks-with-fail2ban)
 - [Terraform Module usage on Running Kubernetes KinD Clusters](https://ruan.dev/blog/2024/11/15/terraform-module-usage-on-running-kubernetes-kind-clusters)
 - [Run a Minecraft Server with Docker Compose](https://ruan.dev/blog/2024/11/10/run-a-minecraft-server-with-docker-compose)
-- [Using Terraform to Store Passwords in AWS SecretsManager](https://ruan.dev/blog/2024/10/16/using-terraform-to-store-passwords-in-aws-secretsmanager)
 <!-- BLOG-POST-LIST:END -->
 
 ### Watch, read, and catch up on content:
