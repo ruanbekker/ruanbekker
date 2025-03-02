@@ -40,11 +40,11 @@ I specialize in AWS, Linux, Containers, Observability and very curious by heart.
 
 ### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Install Dogecoin Core on a Raspberry Pi](https://blog.pistack.co.za/install-dogecoin-core-on-a-raspberry-pi/)
-- [Monitor Temperature with the DHT22 Sensor on the Raspberry PI](https://blog.pistack.co.za/monitor-temperature-with-the-dht22-sensor-on-the-raspberry-pi/)
-- [CI Pipeline with Drone and Kubernetes Runner using Gitea](https://blog.pistack.co.za/ci-pipeline-with-drone-and-kubernetes-runner-using-gitea/)
-- [Kubernetes Drone Runner for Raspberry Pi](https://blog.pistack.co.za/kubernetes-drone-runner-for-raspberry-pi/)
-- [Using fluent-bit to log to Loki on Kubernetes](https://blog.pistack.co.za/using-fluent-bit-to-log-to-loki-on-kubernetes/)
+- [Building a Local AI Assistant with llama-cpp-python](https://ruan.dev/blog/2025/02/14/building-a-local-ai-assistant-with-llama-cpp-python)
+- [Getting Started with Ollama and LLMs in Python](https://ruan.dev/blog/2025/02/14/getting-started-with-ollama-and-llms-in-python)
+- [GitOps: ArgoCD Basics](https://ruan.dev/blog/2025/01/30/gitops-argocd-basics)
+- [GitOps Fundamentals: a Better Way to Deliver Software](https://ruan.dev/blog/2025/01/28/gitops-fundamentals-a-better-way-to-deliver-software)
+- [How to Prevent SSH Brute Force Attacks with Fail2ban](https://ruan.dev/blog/2025/01/24/how-to-prevent-ssh-brute-force-attacks-with-fail2ban)
 <!-- BLOG-POST-LIST:END -->
 
 ### Watch, read, and catch up on content:
