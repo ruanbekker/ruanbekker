@@ -40,11 +40,11 @@ I specialize in AWS, Linux, Containers, Observability and very curious by heart.
 
 ### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [How to use Ollama with Claude Code](https://ruan.dev/blog/2026/05/08/how-to-use-ollama-with-claude-code)
 - [Level Up your Code Quality with SonarQube - a Beginners Guide](https://ruan.dev/blog/2025/06/06/level-up-your-code-quality-with-sonarqube---a-beginners-guide)
 - [How to Choose a Career in IT - A Practical Guide](https://ruan.dev/blog/2025/06/04/how-to-choose-a-career-in-it)
 - [Building a Local AI Assistant with llama-cpp-python](https://ruan.dev/blog/2025/02/14/building-a-local-ai-assistant-with-llama-cpp-python)
 - [Getting Started with Ollama and LLMs in Python](https://ruan.dev/blog/2025/02/14/getting-started-with-ollama-and-llms-in-python)
-- [GitOps: ArgoCD Basics](https://ruan.dev/blog/2025/01/30/gitops-argocd-basics)
 <!-- BLOG-POST-LIST:END -->
 
 ### Watch, read, and catch up on content:
